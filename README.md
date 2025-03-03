@@ -6,15 +6,22 @@ Specifically what the project contains.
 
 - Skill 1
 - Skill 2
-- Skill 3
-- Skill 4
+
 
 ## AWS Services Used
 
 | S.No | AWS Service Name |
 | ---- | ---------------- |
-| 1.   | Create AWS EKS Cluster using eksctl CLI |
-| 2.   | [Docker Fundamentals](https://github.com/stacksimplify/docker-fundamentals) |
-| 3.   | [Kubernetes Fundamentals](https://github.com/stacksimplify/kubernetes-fundamentals) |
-| 4.   | EKS Storage with AWS EBS CSI Driver |
-| 5.   | Kubernetes Important Concepts for Application Deployments |
+| 1.   | AWS Service 1 |
+| 2.   | AWS Service 2 |
+| 3.   | AWS Service 3 |
+
+
+
+
+## How to use it?
+
+```
+cd src
+javac *.java
+```
