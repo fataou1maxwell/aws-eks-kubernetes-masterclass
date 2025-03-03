@@ -1,4 +1,4 @@
-# AWS EKS - Elastic Kubernetes Service
+# Project Name
 
 Specifically what the project contains.
 
